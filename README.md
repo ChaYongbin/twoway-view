@@ -1,4 +1,4 @@
-TwoWayView
+TwoWay
 ==========
 
 *RecyclerView* made simple.
